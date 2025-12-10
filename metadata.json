@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Live Voice Chat",
+  "description": "Real-time conversational voice AI using Gemini 2.5 Live API with low-latency audio streaming.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
